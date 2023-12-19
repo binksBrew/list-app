@@ -65,3 +65,12 @@
 .input-box p{
     color: white;
 }
+
+@media only screen and (max-width: 992px){
+    .container{
+        padding-left: 0%;
+    }
+    .half{
+        padding-left: 10%;
+    }
+}
